@@ -78,7 +78,7 @@ header {
 .banner {
 
     height: calc(100vh - 100px);
-    background-image: url(./assets/images/bg6.jpg);
+    background-image: url(/assets/images/bg6.jpg);
     background-position: bottom;
     background-size: cover;
     overflow: hidden;
