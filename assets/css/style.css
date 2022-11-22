@@ -950,8 +950,8 @@ li {
     .about-left{
         margin: 30px;
     }
-    .about-right{
-        width: auto;
+    .about-us .about-right{
+       margin: auto;
     }
     .section-services{
         flex-wrap: wrap;
